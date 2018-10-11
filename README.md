@@ -4,9 +4,13 @@ Hyde is a brazen two-column [hugo](https://gohugo.io) theme based on the [Jekyll
 
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
+## Starter Installation (incl. Content Manager/CMS)
+
+[![Import this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=forestryio/hyde-hugo-starter&provider=github&engine=hugo&version=0.42)
+
 ## First Steps
 
-You've successfully installed your Hyde Theme in a Hugo project.
+You've now successfully installed your Hyde Theme in a Hugo project.
 
 There's a few more settings we need to customize before you can get started.
 
