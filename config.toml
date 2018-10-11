@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme = "hyde"
+title = "My New Hugo Site"
+[params]
+disqusShortname = ""
+googleAnalytics = ""
+layoutReverse = false
+theme = "hyde"
+themeColor = "theme-base-09"
