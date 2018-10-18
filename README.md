@@ -4,17 +4,21 @@ Hyde is a brazen two-column [hugo](https://gohugo.io) theme based on the [Jekyll
 
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
-## Starter Installation (incl. Content Manager/CMS)
+## First Steps
+
+### 1. Import
+
+To give you a running start this installation puts a fully configured [starter repo](https://github.com/forestryio/hyde-hugo-starter) into your Account and imports it into the [Forestry](https://forestry.io) Content Manager. 
+
+_Forestry Starter-Kit:_
 
 [![Import this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=forestryio/hyde-hugo-starter&provider=github&engine=hugo&version=0.42)
-
-## First Steps
 
 You've now successfully installed your Hyde Theme in a Hugo project.
 
 There's a few more settings we need to customize before you can get started.
 
-### 1. Deployment
+### 2. Deployment
 
 Currently your site is only visible to you but there's a few options to quickly make your site available to the world.
 
@@ -38,7 +42,7 @@ The more powerful option is deployment to AWS and makes sense if you have experi
 
 For other deployment options please check out our list [here](https://forestry.io/docs/hosting/) (including Webhooks, FTP/SFTP and Github Pages).
 
-### 2. Advanced Settings
+### 3. Advanced Settings
 
 #### Themes
 
@@ -74,7 +78,7 @@ Google Analytics can be enabled by assigning your tracking code to `Site Configu
 
 If you don't have a Google Analytics Account you can sign up for an account [here](https://marketingplatform.google.com/about/analytics/).
 
-### 3. Editing in Forestry
+### 4. Editing in Forestry
 
 Your site is completely editable in Forestry. The Hyde theme is a simple responsive blog completely based on posts and a sidebar menu.
 
