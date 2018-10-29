@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: README.md
+  path: FIRSTSTEPS.md
   label: Welcome - Start Here!
   read_only: true
 - type: document
