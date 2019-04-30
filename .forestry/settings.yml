@@ -4,8 +4,26 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: content/posts
+  label: Posts
+  create: all
+  match: "**/*"
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*.md"
 - type: heading
-  label: Hyde hyde hyde
+  label: Documentation
+- type: document
+  path: README.md
+  label: README
+  read_only: true
+- type: document
+  path: FIRSTSTEPS.md
+  label: First Steps
+  read_only: true
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
