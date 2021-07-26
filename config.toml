@@ -1,10 +1,10 @@
-baseURL = "https://thirsty-joliot-5ef7e9.netlify.app/"
+baseURL = "https://cjyen.netlify.app/"
 languageCode = "en-us"
 theme = "hyde"
-title = "My New Hugo Site"
+title = "CJ Yen"
 [params]
-disqusShortname = ""
-googleAnalytics = ""
+disqusShortname = "cjyen"
+googleAnalytics = "UA-203235837-1"
 layoutReverse = false
 theme = "hyde"
-themeColor = ""
+themeColor = "theme-base-08"
